@@ -10,7 +10,7 @@ title               = "Thomas Kelly"
 pygmentsuseclasses  = true
 disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
+googleAnalytics     = "UA-61226354-1"
 
 [permalinks]
 fixed = ":title/"
@@ -36,7 +36,3 @@ avatar                 = "images/profile.jpg" # path to image in static dir e.g 
 # highlightjslanguages = ["go"]            # additional languages not included in the "common" set
 
 extracssfiles = [ "/styles/overrides.css" ] # In your `static` directory, add/remove files as necessary.
-
-# The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "TK"  # displayed on single post page; deprecated in v0.3.0.
