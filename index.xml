@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Kelly</title>
+    <link>https://t-kelly.github.io/index.xml</link>
+    <description>Recent content on Thomas Kelly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 15 Jan 2017 10:55:15 -0500</lastBuildDate>
+    <atom:link href="https://t-kelly.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A New Year, New Blog, and New Performance Playground</title>
+      <link>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</link>
+      <pubDate>Sun, 15 Jan 2017 10:55:15 -0500</pubDate>
+      
+      <guid>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</guid>
+      <description>&lt;p&gt;Over the past year I&amp;rsquo;ve spent a lot of time exploring web performance. What I&amp;rsquo;ve
+learned is that there is always a performant solution to a problem and
+less performant solution.&lt;/p&gt;
+
+&lt;p&gt;Sometimes - for whatever reasons - it&amp;rsquo;s not possible to apply the most
+performant solutions to whatever project your working on. This is total bummer
+when all you want to do is make things as fast as possible.&lt;/p&gt;
+
+&lt;p&gt;I need a project with the ultimate goal of setting the bar when it comes
+to web performance. A project uncoupled from business agendas and legacy code.
+My hope is that this blog can be that project.&lt;/p&gt;
+
+&lt;p&gt;Over the next while, I&amp;rsquo;ll be working on transforming this blog from a
+&lt;a href=&#34;http://themes.gohugo.io/cocoa/&#34;&gt;simple Hugo theme&lt;/a&gt;, to a golden example of
+web performance. Each iteration will be accompannied by a blog post and will
+focus on a particular problem.&lt;/p&gt;
+
+&lt;p&gt;Wish me luck!&lt;/p&gt;
+
+&lt;p&gt;TK&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://t-kelly.github.io/about/</link>
+      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      
+      <guid>https://t-kelly.github.io/about/</guid>
+      <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In time, he learns how to fly and carves a niche for himself as a sandwich-maker.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;//placehold.it/300x300&#34; class=&#34;profile&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;colophon/&#34;&gt;About this site&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>colophon</title>
+      <link>https://t-kelly.github.io/colophon/</link>
+      <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
+      
+      <guid>https://t-kelly.github.io/colophon/</guid>
+      <description>&lt;p&gt;This website is a personal homepage.&lt;/p&gt;
+
+&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;https://t-kelly.github.io/&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
+
+&lt;p&gt;The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.&lt;/p&gt;
+
+&lt;p&gt;If you find errors, &lt;a href=&#34;https://t-kelly.github.io/&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://t-kelly.github.io/code/</link>
+      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
+      
+      <guid>https://t-kelly.github.io/code/</guid>
+      <description>
+
+&lt;p&gt;The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by &lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Adams&#34;&gt;Douglas Adams&lt;/a&gt;. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eoin_Colfer&#34;&gt;Eoin Colfer&lt;/a&gt; in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an &amp;ldquo;official version&amp;rdquo; of The Hitchhiker&amp;rsquo;s Guide to the Galaxy, as they include text from the first novel.&lt;/p&gt;
+
+&lt;h3 id=&#34;movie&#34;&gt;Movie&lt;/h3&gt;
+
+&lt;p&gt;A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 Ways to Make Your Mixpanel Tracking Code More Maintainable</title>
+      <link>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</link>
+      <pubDate>Sat, 28 Mar 2015 13:30:00 +0000</pubDate>
+      
+      <guid>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</guid>
+      <description>
+
+&lt;p&gt;Recently, I’ve had the opportunity to work with &lt;a href=&#34;https://mixpanel.com/&#34;&gt;Mixpanel&lt;/a&gt;, an event-driven, real-time web and application tracking service. Mixpanel focuses on retrieving metrics with greater substance and utility by tracking application events - cutting away from more common &lt;a href=&#34;https://mixpanel.com/blog/2012/12/17/bs-metrics/&#34;&gt;bullshit metrics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In their &lt;a href=&#34;https://mixpanel.com/help/reference/javascript&#34;&gt;JavaScript API documentation&lt;/a&gt;, Mixpanel provides brief examples of how to integrate their tracking into your application. Following these docs, it&amp;rsquo;s extremely easy to get things up and running. Before you know it, Mixpanel is pumping out application events with all sorts of juicy details!&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, their is an unsightly side-effect to your new-found tracking goodness. Your code blocks have now doubled in size and are littered with &lt;code&gt;mixpanel.track&lt;/code&gt; events. Not only do these tracking events look bad in your code, but they are incredibly hard to maintain (especially on a large scale) and are terribly inefficient if you consider the amount of repeated code.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;// An example of the &#39;Tracking Pollution&#39; effect
+
+// BEFORE - Original Code
+var form = {};
+form.submit = function (data) {
+    return service.sendData(data)
+        .catch(function (err) {
+            console.log(err);
+        })
+        .then(function (response) {
+            return response.Value;
+        });
+
+}
+
+// AFTER - Code with tracking
+var form = {};
+form.submit = function (data) {
+    return service.sendData(data)
+        .catch(function (err) {
+             console.log(error);
+             mixpanel.track(&amp;quot;Submit Form&amp;quot;, {
+                  &amp;quot;Category&amp;quot;: &amp;quot;Submit&amp;quot;,
+                  &amp;quot;Type&amp;quot;: &amp;quot;Form&amp;quot;,
+                  &amp;quot;Status&amp;quot;: &amp;quot;Error&amp;quot;,
+                  &amp;quot;Value&amp;quot;: error
+             });
+        })
+        .then(function (response) {
+             mixpanel.track(&amp;quot;Submit Form&amp;quot;, {
+                  Category: &amp;quot;Submit&amp;quot;,
+                  Type: &amp;quot;Form&amp;quot;,
+                  Status: &amp;quot;Success&amp;quot;,
+                  Value: response.Value
+             });
+             return response.Value;
+        });
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After realizing what a mess I was producing, I set out on a mission to eliminate tracking pollution and implement a more maintainable, less error-prone solution.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-use-super-properties-and-extend-objects&#34;&gt;1. Use super properties and extend objects&lt;/h2&gt;
+
+&lt;p&gt;One of the first problems is the amount of repeated properties and values found within groups of Mixpanel events. This can be solved in two ways:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mixpanel Super Properties&lt;/strong&gt; - If you discover you are including a property in all of your events, then it should probably be set as a Mixpanel &lt;a href=&#34;https://mixpanel.com/help/reference/javascript#super-properties&#34;&gt;super property&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Extend Objects&lt;/strong&gt; - Group repeated event properties in separate objects and extend these objects with event specific properties. Here I’m using &lt;a href=&#34;https://lodash.com/docs#assign&#34;&gt;lodash&lt;/a&gt; to extend my objects but there are plenty of other ways of doing this.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
+var form = {};
+
+// Repeated properties found in both events go here
+var common = {
+   Category: &amp;quot;Submit&amp;quot;,
+   Type: &amp;quot;Form&amp;quot;,
+};
+
+form.submit = function (data) {
+   return service.sendData(data)
+        .catch (function (err) {
+             console.log(error);
+
+             // We extend the common object with our event specific properties
+             mixpanel.track(&amp;quot;Submit Form&amp;quot;, _.assign(common, {
+                  Status: &amp;quot;Error&amp;quot;,
+                  Value: error
+             }));
+        }
+        .then(function (response) {
+             console.log(&amp;quot;Submit success&amp;quot;);
+             mixpanel.track(&amp;quot;Submit Form&amp;quot;, _.assign(common, {
+                  Status: &amp;quot;Success&amp;quot;,
+                  Value: response.Value
+             }));
+             return response;
+        }
+}   
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;2-combine-repeated-events-into-a-single-function&#34;&gt;2. Combine repeated events into a single function&lt;/h2&gt;
+
+&lt;p&gt;As a best practice, Mixpanel recommends you &lt;a href=&#34;https://mixpanel.com/blog/2012/04/12/selecting-events-and-properties-with-extensibility-and-targeted-reporting-in-mind/&#34;&gt;keep your Mixpanel events as general as possible&lt;/a&gt;. For example, instead of having &lt;code&gt;&#39;Click Submit Button&#39;&lt;/code&gt; and &lt;code&gt;&#39;Click Close Button&#39;&lt;/code&gt; as events, use a single &lt;code&gt;&#39;Click&#39;&lt;/code&gt; event with a property &lt;code&gt;&#39;Type: Submit&#39;&lt;/code&gt; and &lt;code&gt;&#39;Type: Close&#39;&lt;/code&gt;. However, a side effect is that you end up with lots of repeated functions. Let&amp;rsquo;s take care of that by creating a new function with the repeated code.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
+var form = {};
+var mix = {};
+
+var common = {
+     Category: &amp;quot;Submit&amp;quot;,
+     Type: &amp;quot;Form&amp;quot;,
+};
+
+// Common function for all &#39;Submit Form&#39; events
+mix.submitForm = function (properties) {
+     mixpanel.track(&amp;quot;Submit Form&amp;quot;, _.assign(common, properties));
+};
+
+form.submit = function (data) {
+     return service.sendData(data)
+          .catch(function (err) {
+               console.log(error);
+               mix.submitForm({
+                    Status: &amp;quot;Error&amp;quot;,
+                    Value: error
+               });
+          })
+          .then(function (response) {
+               console.log(&amp;quot;Submit success&amp;quot;);
+               mix.submitForm({
+                    Status: &amp;quot;Success&amp;quot;,
+                    Value: response.Value
+               });
+               return response;
+          });
+}   
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;3-use-constants-instead-of-strings&#34;&gt;3. Use constants instead of strings&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest pains I discovered after my first time implementing Mixpanel on a large scale is the risk of mistyping a property or value string. These typo&amp;rsquo;s are hard to detect and most of the time are only found when it&amp;rsquo;s too late and your data is split between the correctly spelled value and the typo. Using constants allows your IDE to help type by using intelligent code completion and your browser will throw an error if the constant is referenced incorrectly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
+var form = {};
+var mix = {};
+
+// Mixpanel property strings
+mix.properties = var p = {
+    CATEGORY: &amp;quot;Category&amp;quot;,
+    TYPE: &amp;quot;Type&amp;quot;,
+    STATUS: &amp;quot;Status&amp;quot;,
+    VALUE: &amp;quot;Value&amp;quot;
+};
+
+// Mixpanel value strings
+mix.values = var v = {
+     CATEGORY_SUBMIT: &amp;quot;Submit&amp;quot;,
+     TYPE_FORM: &amp;quot;Form&amp;quot;,
+     STATUS_SUCCESS: &amp;quot;Success&amp;quot;,
+     STATUS_ERROR: &amp;quot;Error&amp;quot;
+};
+
+// Mixpanel event strings
+mix.events = var e = {
+    SUBMIT_FORM: &amp;quot;Submit Form&amp;quot;
+};
+
+var common = {
+     p.CATEGORY: v.CATEGORY_SUBMIT:,
+     p.TYPE: v.TYPE_FORM,
+};
+
+mix.submitForm = function (properties) {
+     mixpanel.track(e.SUBMIT_FORM, _.assign(common, properties));
+};
+
+form.submit = function (data) {
+     return service.sendData(data)
+          .catch(function (err) {
+               console.log(error);
+               mix.submitForm({
+                    p.STATUS: v.STATUS_ERROR,
+                    p.VALUE : error
+               });
+          })
+          .then(function (response) {
+               mix.submitForm({
+                    p.STATUS: v.STATUS_SUCCESS,
+                    p.VALUE: response.Value
+               });
+               return response;
+          });
+}   
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;4-isolate-mixpanel-code-from-application-code&#34;&gt;4. Isolate Mixpanel code from application code&lt;/h2&gt;
+
+&lt;p&gt;Having all of your Mixpanel code to single file makes it a lot easier to maintain then having it scattered across your application codebase. Unfortunately, even with all the above improvements we still have some lingering, Mixpanel specific code&amp;hellip; So how can we still make this better?&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;// form.js
+
+var form = {}
+var p = mix.properties;
+var v = mix.values;
+
+form.submit = function (data) {
+     return service.sendData(data)
+          .catch(function (err) {
+               console.log(error);
+               mix.submitForm({
+                    p.STATUS: v.STATUS_ERROR,
+                    p.VALUE : error
+               });
+          })
+          .then(function (response) {
+               mix.submitForm({
+                    p.STATUS: v.STATUS_SUCCESS,
+                    p.VALUE: response.Value
+               });
+               return response;
+          });
+}
+    
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;5-use-a-central-event-dispatcher&#34;&gt;5. Use a central event dispatcher&lt;/h2&gt;
+
+&lt;p&gt;Using a central event dispatcher, AKA &lt;a href=&#34;https://carldanley.com/js-mediator-pattern/&#34;&gt;mediator&lt;/a&gt;, has a lot of benefits. One of these benifits is allowing modules to communicate with each-other in a &lt;a href=&#34;http://en.wikipedia.org/wiki/Loose_coupling&#34;&gt;loosely coupled&lt;/a&gt; manor.
+ Application architectures like &lt;a href=&#34;https://facebook.github.io/flux/&#34;&gt;Facebook’s Flux&lt;/a&gt; rely heavily on this design pattern to link application logic and views. I discovered this pattern also excels at loosely coupling Mixpanel event tracking and application code!&lt;/p&gt;
+
+&lt;p&gt;When a &lt;a href=&#34;http://addyosmani.com/writing-modular-js/&#34;&gt;module&lt;/a&gt; triggers an event, the dispatcher emits that event through a single point to all other subscribed modules. These events can include a payload which includes all the data needed by others modules to react accordingly.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s where Mixpanel fits in.&lt;/p&gt;
+
+&lt;p&gt;Ideally, all events which you need to track in your application should have an event being fired through a central dispatcher. In addition, all of these events should include in their payload all the data needed for tracking. By treating your now isolated Mixpanel code like any other module, you can listen to all the events you wish to track through the dispatcher and completely remove all Mixpanel specific code from your modules.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;
+// form.js
+
+var form = {}
+
+form.events = var e = {
+     SUBMIT_FORM_ERROR: &amp;quot;Submit Form Error&amp;quot;,
+     SUBMIT_FORM_SUCCESS: &amp;quot;Submit Form Success&amp;quot;
+}
+
+form.submit = function (data) {
+     return service.sendData(data)
+          .catch(function (error) {
+               dispatcher.trigger(e.SUBMIT_FORM_ERROR, error);
+          })
+          .then(function (response) {
+               dispatcher.trigger(e.SUBMIT_FORM_SUCCESS, response);
+               return response.Value;
+          });
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;// tracking.js
+
+var mix = {};
+mix.events = {};
+
+// Step 3 - Use constants instead of strings
+mix.properties = var p = {
+    CATEGORY: &amp;quot;Category&amp;quot;,
+    TYPE: &amp;quot;Type&amp;quot;,
+    STATUS: &amp;quot;Status&amp;quot;,
+    VALUE: &amp;quot;Value&amp;quot;
+};
+mix.values = var v = {
+     CATEGORY_SUBMIT: &amp;quot;Submit&amp;quot;,
+     TYPE_FORM: &amp;quot;Form&amp;quot;,
+     STATUS_SUCCESS: &amp;quot;Success&amp;quot;,
+     STATUS_ERROR: &amp;quot;Error&amp;quot;
+};
+mix.events = var e = {
+    SUBMIT_FORM: &amp;quot;Submit Form&amp;quot;
+};
+
+// Step 2 - Combine repeated events into a single function
+mix.submitForm = function (customProps) {
+     mixpanel.track(e.SUBMIT_FORM, _.assign(submitTracking, customProps));
+};
+
+// Wrapper to enclose grouped events
+mix.listeners = _.assign(mix.listeners, (function () {
+     var e = form.events;
+
+     // Step 1 - Use super properties and extend objects
+     var common = {
+          p.CATEGORY: v.CATEGORY_SUBMIT:,
+          p.TYPE: v.TYPE_FORM,
+     };
+
+     return {
+          e.SUBMIT_FORM_ERROR : function (e, payload) {
+               mix.submitForm(_.assign(common, {
+                    p.STATUS: v.STATUS_ERROR,
+                    p.VALUE : payload
+               }));
+          },
+
+          e.SUBMIT_FORM_SUCCESS : function (e, payload) {
+               mix.submitForm(_.assign(common, {
+                    p.STATUS: v.STATUS_SUCCESS,
+                    p.VALUE : payload.Value
+               }));
+          }
+     }
+}()));
+
+// ...
+// Repeat above enclosure for other groups
+// ...
+
+// Assign callback to each event in mix.events
+_.each(mix.events, function(fn, event) {
+     dispatcher.on(event, fn);
+});
+    
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Awwhh yeah! Your application is back to being clean and tidy and all of your Mixpanel code is isolated in a single file. It&amp;rsquo;s now easier to maintain because of being loosly coupled to modules, less error prone thanks to constants, and more efficient thanks to reducing the amount of repeated code.&lt;/p&gt;
+
+&lt;p&gt;Have any other tips or tricks you&amp;rsquo;ve discovered while implementing Mixpanel? Leave me a comment!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
