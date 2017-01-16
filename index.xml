@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Kelly</title>
-    <link>https://t-kelly.github.io/index.xml</link>
+    <link>http://thomaskelly.ca/index.xml</link>
     <description>Recent content on Thomas Kelly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 15 Jan 2017 10:55:15 -0500</lastBuildDate>
-    <atom:link href="https://t-kelly.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://thomaskelly.ca/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A New Year, New Blog, and New Performance Playground</title>
-      <link>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</link>
+      <link>http://thomaskelly.ca/blog/a-new-year-new-blog-and-new-performance-playground/</link>
       <pubDate>Sun, 15 Jan 2017 10:55:15 -0500</pubDate>
       
-      <guid>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</guid>
+      <guid>http://thomaskelly.ca/blog/a-new-year-new-blog-and-new-performance-playground/</guid>
       <description>&lt;p&gt;Over the past year I&amp;rsquo;ve spent a lot of time exploring web performance. What I&amp;rsquo;ve
 learned is that there is always a performant solution to a problem and
 less performant solution.&lt;/p&gt;
@@ -40,10 +40,10 @@ focus on a particular problem.&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>https://t-kelly.github.io/about/</link>
+      <link>http://thomaskelly.ca/about/</link>
       <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
       
-      <guid>https://t-kelly.github.io/about/</guid>
+      <guid>http://thomaskelly.ca/about/</guid>
       <description>&lt;p&gt;Along with &lt;a href=&#34;https://en.wikipedia.org/wiki/Ford_Prefect_(character)&#34;&gt;Ford Prefect&lt;/a&gt;, Dent barely escapes the Earth&amp;rsquo;s destruction as it is demolished to make way for a &lt;em&gt;hyperspace bypass&lt;/em&gt;. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -62,26 +62,26 @@ focus on a particular problem.&lt;/p&gt;
     
     <item>
       <title>colophon</title>
-      <link>https://t-kelly.github.io/colophon/</link>
+      <link>http://thomaskelly.ca/colophon/</link>
       <pubDate>Sat, 22 Aug 2015 06:28:26 -0700</pubDate>
       
-      <guid>https://t-kelly.github.io/colophon/</guid>
+      <guid>http://thomaskelly.ca/colophon/</guid>
       <description>&lt;p&gt;This website is a personal homepage.&lt;/p&gt;
 
-&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;https://t-kelly.github.io/&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
+&lt;p&gt;The site is built with &lt;a target=&#34;_blank&#34; href=&#34;//gohugo.io&#34;&gt;Hugo&lt;/a&gt;—a static site generator made with Go. The website &lt;a href=&#34;http://thomaskelly.ca/&#34;&gt;source code&lt;/a&gt; is available on GitHub. It uses the &lt;a target=&#34;_blank&#34; href=&#34;//github.com/nishanths/cocoa-hugo-theme&#34;&gt;cocoa&lt;/a&gt; theme. The posts are written in Markdown.&lt;/p&gt;
 
 &lt;p&gt;The primary font face is Open Sans and the monospace font face is Ubuntu Mono. The social icons are from the Ionicons font set. CSS classes for code syntax highlighting are inserted during compile-time by Hugo using Pygments.&lt;/p&gt;
 
-&lt;p&gt;If you find errors, &lt;a href=&#34;https://t-kelly.github.io/&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you find errors, &lt;a href=&#34;http://thomaskelly.ca/&#34;&gt;please let me know&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>https://t-kelly.github.io/code/</link>
+      <link>http://thomaskelly.ca/code/</link>
       <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
       
-      <guid>https://t-kelly.github.io/code/</guid>
+      <guid>http://thomaskelly.ca/code/</guid>
       <description>
 
 &lt;p&gt;The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by &lt;a href=&#34;https://en.wikipedia.org/wiki/Douglas_Adams&#34;&gt;Douglas Adams&lt;/a&gt;. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by &lt;a href=&#34;https://en.wikipedia.org/wiki/Eoin_Colfer&#34;&gt;Eoin Colfer&lt;/a&gt; in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an &amp;ldquo;official version&amp;rdquo; of The Hitchhiker&amp;rsquo;s Guide to the Galaxy, as they include text from the first novel.&lt;/p&gt;
@@ -94,10 +94,10 @@ focus on a particular problem.&lt;/p&gt;
     
     <item>
       <title>5 Ways to Make Your Mixpanel Tracking Code More Maintainable</title>
-      <link>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</link>
+      <link>http://thomaskelly.ca/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</link>
       <pubDate>Sat, 28 Mar 2015 13:30:00 +0000</pubDate>
       
-      <guid>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</guid>
+      <guid>http://thomaskelly.ca/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</guid>
       <description>
 
 &lt;p&gt;Recently, I’ve had the opportunity to work with &lt;a href=&#34;https://mixpanel.com/&#34;&gt;Mixpanel&lt;/a&gt;, an event-driven, real-time web and application tracking service. Mixpanel focuses on retrieving metrics with greater substance and utility by tracking application events - cutting away from more common &lt;a href=&#34;https://mixpanel.com/blog/2012/12/17/bs-metrics/&#34;&gt;bullshit metrics&lt;/a&gt;.&lt;/p&gt;

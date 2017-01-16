@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Thomas Kelly</title>
-    <link>https://t-kelly.github.io/blog/index.xml</link>
+    <link>http://thomaskelly.ca/blog/index.xml</link>
     <description>Recent content in Blog on Thomas Kelly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 15 Jan 2017 10:55:15 -0500</lastBuildDate>
-    <atom:link href="https://t-kelly.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://thomaskelly.ca/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A New Year, New Blog, and New Performance Playground</title>
-      <link>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</link>
+      <link>http://thomaskelly.ca/blog/a-new-year-new-blog-and-new-performance-playground/</link>
       <pubDate>Sun, 15 Jan 2017 10:55:15 -0500</pubDate>
       
-      <guid>https://t-kelly.github.io/blog/a-new-year-new-blog-and-new-performance-playground/</guid>
+      <guid>http://thomaskelly.ca/blog/a-new-year-new-blog-and-new-performance-playground/</guid>
       <description>&lt;p&gt;Over the past year I&amp;rsquo;ve spent a lot of time exploring web performance. What I&amp;rsquo;ve
 learned is that there is always a performant solution to a problem and
 less performant solution.&lt;/p&gt;
@@ -40,10 +40,10 @@ focus on a particular problem.&lt;/p&gt;
     
     <item>
       <title>5 Ways to Make Your Mixpanel Tracking Code More Maintainable</title>
-      <link>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</link>
+      <link>http://thomaskelly.ca/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</link>
       <pubDate>Sat, 28 Mar 2015 13:30:00 +0000</pubDate>
       
-      <guid>https://t-kelly.github.io/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</guid>
+      <guid>http://thomaskelly.ca/blog/5-ways-to-make-your-mixpanel-tracking-code-more-maintainable/</guid>
       <description>
 
 &lt;p&gt;Recently, I’ve had the opportunity to work with &lt;a href=&#34;https://mixpanel.com/&#34;&gt;Mixpanel&lt;/a&gt;, an event-driven, real-time web and application tracking service. Mixpanel focuses on retrieving metrics with greater substance and utility by tracking application events - cutting away from more common &lt;a href=&#34;https://mixpanel.com/blog/2012/12/17/bs-metrics/&#34;&gt;bullshit metrics&lt;/a&gt;.&lt;/p&gt;
