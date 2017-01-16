@@ -1,0 +1,9 @@
+{
+  "name": "thomaskelly.ca",
+  "version": "1.0.0",
+  "description": "Personal site for Thomas Kelly generated using Hugo, and Yarn. A place where I can experiment with new web technologies.",
+  "main": "index.js",
+  "repository": "t-kelly/t-kelly.github.io",
+  "author": "Thomas Kelly",
+  "license": "MIT"
+}
