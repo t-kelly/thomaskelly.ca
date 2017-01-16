@@ -1,4 +1,4 @@
-baseurl             = "https://t-kelly.github.io/"
+baseurl             = "http://thomaskelly.ca/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
