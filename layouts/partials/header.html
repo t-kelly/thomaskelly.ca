@@ -37,16 +37,12 @@
             <a href="{{ .Site.Params.linkedin }}" target="_blank"><img class="icon" src="/img/linkedin.svg" alt="linkedin" /></a>
         {{ end }}
 
-        {{ if .Site.Params.facebook }}
-            <a href="{{ .Site.Params.facebook }}" target="_blank"><img class="icon" src="/img/facebook.svg" alt="facebook" /></a>
-        {{ end }}
-
-        {{ if .Site.Params.soundcloud }}
-            <a href="{{ .Site.Params.soundcloud }}" target="_blank"><img class="icon" src="/img/soundcloud.svg" alt="soundcloud" /></a>
+        {{ if .Site.Params.youtube }}
+            <a href="{{ .Site.Params.youtube }}" target="_blank"><img class="icon" src="/images/youtube.svg" alt="youtube" /></a>
         {{ end }}
 
         {{ if .Site.Params.email }}
-            <a href="mailto:{{ .Site.Params.email }}"><img class="icon" src="/img/email.svg" alt="email" /></a>
+            <a href="mailto:{{ .Site.Params.email }}"><img class="icon" src="/images/email.svg" alt="email" /></a> 
         {{ end }}
 
         {{ if .Site.RSSLink }}

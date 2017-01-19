@@ -1,3 +1,7 @@
 section.main .container .content .post-item .meta {
   text-align: left;
 }
+
+section.icons .content a .icon {
+  width: auto;
+}

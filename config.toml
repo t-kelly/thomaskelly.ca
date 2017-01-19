@@ -25,6 +25,7 @@ description  = "Don't panic"
 email        = "mail@thomaskelly.ca"
 faviconfile  = "img/favicon.ico"
 github       = "//github.com/t-kelly"
+youtube      = "https://www.youtube.com/channel/UCgWZjpMPwixsaCcPdpJCEug"
 highlightjs  = true
 lang         = "en"
 linkedin     = "//linkedin.com/in/teekz"
